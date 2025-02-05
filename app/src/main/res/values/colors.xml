@@ -4,10 +4,7 @@
     <color name="white">#FFFFFFFF</color>
 
     // Cores
-    <color name="primary_blue">#00063F</color>
     <color name="primary_white">#FFFFFF</color>
-    <color name="primary_whitesoft">#006B9E</color>
-    <color name="primary_whitesoft_clear">#00C5FC</color>
     <color name="primary_400">#0B455B</color>
     <color name="primary_500">#1499CC</color>
     <color name="primary_900">#FEE3A1</color>
