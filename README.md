@@ -24,6 +24,7 @@ Este projeto é um aplicativo Android Nativo desenvolvido em Kotlin que auxilia 
   - Intent
   - Estruturas condicionais "if/else"
   - isEmpty/ setError
+  - setImageResource
 
 ## License
 ```
