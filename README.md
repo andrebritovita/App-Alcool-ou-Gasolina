@@ -3,7 +3,7 @@ Este projeto é um aplicativo Android Nativo desenvolvido em Kotlin que auxilia 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/48bf52bb-3e7b-4c28-8370-691ea680b365" width=200/> <img src="https://github.com/user-attachments/assets/01bbc27c-6d4d-49d9-92d5-16d85a655593" width=200/> <img src="https://github.com/user-attachments/assets/a4907a89-1a98-4a5c-9d80-b2d230e11a06" width=200/>
+<img src="https://github.com/user-attachments/assets/48bf52bb-3e7b-4c28-8370-691ea680b365" width=200/> <img src="https://github.com/user-attachments/assets/01bbc27c-6d4d-49d9-92d5-16d85a655593" width=200/> <img src="https://github.com/user-attachments/assets/4dcaf140-d6dc-4da0-9690-f4ed6add3b6a" width=200/> <img src="https://github.com/user-attachments/assets/53a8d365-2410-41dd-a669-8b77233bbf06" width=200/>
 
 ## Tecnologias
 - Activity
