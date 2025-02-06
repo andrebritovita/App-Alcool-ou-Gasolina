@@ -1,5 +1,6 @@
 package com.andrebritovita.appalcoolougasolina
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -20,6 +21,10 @@ class ResultActivity : AppCompatActivity() {
         } else {
             binding.tvMelhorOpcao.text = "ÁLCOOL"
             binding.imvAlcool.setImageResource(R.drawable.alcool)
+        }
+        binding.btnComoCalcular.setOnClickListener {
+            val intent = Intent(this, ExplicacaoActivity::class.java)
+            startActivity(intent)
         }
     }
 }
