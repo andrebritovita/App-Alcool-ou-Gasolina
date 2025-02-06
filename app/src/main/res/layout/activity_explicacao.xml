@@ -32,7 +32,7 @@
             android:paddingEnd="8dp"
             android:paddingBottom="0dp"
             android:text="Como funciona o cálculo:"
-            android:textSize="20sp" />
+            android:textSize="20dp" />
 
         <TextView
             android:id="@+id/textView7"
@@ -46,7 +46,7 @@
             android:paddingBottom="24dp"
             android:text="Dividimos o preço do litro do álcool pelo da gasolina. Se o resultado for menor que 0,7, o álcool é a melhor escolha. Caso seja maior, a gasolina é mais vantajosa."
             android:textAlignment="center"
-            android:textSize="16sp" />
+            android:textSize="16dp" />
 
         <TextView
             android:id="@+id/textView8"
@@ -59,7 +59,7 @@
             android:paddingEnd="48dp"
             android:paddingBottom="24dp"
             android:text="Por exemplo, se o álcool custa R$4,20 e a gasolina R$5,70, a divisão resulta em 0,73, que é maior que 0,7. Nesse caso, a gasolina é a opção ideal.&quot;"
-            android:textSize="16sp" />
+            android:textSize="16dp" />
     </LinearLayout>
 
     <ImageView
